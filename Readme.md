@@ -2,7 +2,7 @@
 
 # **Pong-TUI**
 
-**Play Pong in the terminal. Made with Rust🦀 and [ratatui](https://github.com/ratatui-org/ratatui).**
+**Play Pong inside the terminal. Made with Rust🦀 and [ratatui](https://github.com/ratatui-org/ratatui).**
 
 </div>
 
