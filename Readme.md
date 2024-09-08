@@ -10,7 +10,7 @@
 
 - Cargo:
     ```bash
-    git clone git@github.com:Sem1Rose/pong-tui.git
+    git clone https://github.com/Sem1Rose/pong-tui.git
     cd pong-tui
     cargo run
     ```
